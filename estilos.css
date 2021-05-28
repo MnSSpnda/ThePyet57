@@ -1,0 +1,39 @@
+body{  
+background-color: lightgreen;
+}
+
+h1 {
+color: white;
+text-align: left;
+font-weight: bold;
+}
+
+p {
+color: #ffff00;
+text-align: left;
+font-size: 34px;
+font-weight: bold;	
+}
+
+h4{ 
+text-align: left;
+font-family: Papyrus;
+font-weight: bold;	
+color:	#8A2BE2
+
+}
+
+h5{ 
+text-align: left;
+font-family: Arial;
+font-weight: bold;	
+color:	#CB3234
+
+}
+
+
+title{
+color: #7B18A7;
+font-weight: bold;	
+
+}
